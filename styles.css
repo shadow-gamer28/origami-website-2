@@ -1,0 +1,29 @@
+.bodyimg{
+    background-color:#d66c09;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.origami{
+    border-radius: 20px;
+    border: 10px solid black;
+    border-radius: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-between;
+    background-color: #5e305e;
+    width: 310px;
+    font-family:sans-serif;  
+}
+.menu{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: rgb(31, 68, 187);
+}
+body{
+    background-color: rgb(16, 70, 7);
+}
